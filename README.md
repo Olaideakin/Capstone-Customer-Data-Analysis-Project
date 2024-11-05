@@ -156,6 +156,9 @@ FROM [dbo].[Customer_Data];
 #### Pivot Table
 ![Subscription Plan by Revenue](https://github.com/user-attachments/assets/4dc44f7b-f8b5-4309-a913-947beee0207e)
 
+#### Chart
+![Subscription Plan by Revenue1](https://github.com/user-attachments/assets/83ccbf3e-5475-459d-a997-6a18ebfc9225)
+
 #### **Inference**
 - Dominant Revenue Source: The Basic subscription plan is the highest revenue generator, contributing (currency)33,776,735, which accounts for approximately 49.9% of the total revenue of (currency)67,540,175. This indicates that the Basic plan is likely appealing to a significant portion of the customer base.
 
@@ -174,7 +177,10 @@ FROM [dbo].[Customer_Data];
 ### 2. **AVERAGE SUBSCRIPTION DURATION**
 
 #### Pivot Table
-![Average Subscription Duration](https://github.com/user-attachments/assets/a1cd5af6-2e3d-4119-957d-0c184318cc04)
+![Average Subscription Duration](https://github.com/user-attachments/assets/a1cd5af6-2e3d-4119-957d-0c184318cc04
+
+#### Chart
+![Average Subscription Duration1](https://github.com/user-attachments/assets/ec57aa74-60a8-4c09-9273-b770d1d10288)
 
 #### **Inference**
 -The average subscription durations for the different plans are quite close to each other, with the Standard plan having the highest average duration at approximately 365.40 days. The Basic plan has the lowest average duration at approximately 365.30 days.
@@ -188,7 +194,10 @@ FROM [dbo].[Customer_Data];
 ### 3. **MOST POPULAR SUBSCRIPTION PLAN**
 
 #### Pivot Table
-![Most Popular Subscription Type](https://github.com/user-attachments/assets/d62c6b27-c6cd-4fcc-a9e0-1f8a671910c1)
+![Most Popular Subscription Type](https://github.com/user-attachments/assets/d62c6b27-c6cd-4fcc-a9e0-1f8a671910c1
+
+#### Chart
+![Most Popular Subscription Plan](https://github.com/user-attachments/assets/8b1deba8-7912-4d53-8fc1-858e770fb2ad)
 
 #### **Inference**
 - The Basic subscription is by far the most popular choice among customers, with a total of 16,921 subscriptions, representing a significant majority of the total 33,787 subscriptions. In contrast, both the Premium and Standard subscriptions have similar counts of 8,446 and 8,420 customers, respectively.
@@ -203,6 +212,9 @@ FROM [dbo].[Customer_Data];
 
 #### Pivot Table
 ![Subscription Revenue by Region](https://github.com/user-attachments/assets/f52bc4cd-03dc-444b-83f8-1ba59c907316)
+
+#### Chart
+![Subscription Revenue by Region1](https://github.com/user-attachments/assets/5047bfd2-b6ab-491a-9b2d-ecefaf8f3fe7)
 
 #### **Inference**
 - The total subscription revenue across all regions is (currency)67.54 million, with revenues being relatively balanced among the four regions. The East region leads slightly with (currency)16,958,763, followed closely by the North at (currency)16,817,972, the South at (currency)16,899,064, and the West at (currency)16,864,376.
