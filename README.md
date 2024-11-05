@@ -303,6 +303,8 @@ In conclusion, while there are regions with strong active customer bases, the hi
 - The relatively balanced customer distribution across the regions highlights a strong market presence, with the East region leading slightly. This provides a solid foundation for the business to implement targeted growth strategies, particularly in the South and West regions, to enhance overall customer acquisition and retention efforts.
 
 
+### POWER BI 
+![Customer Data PowerBI Visuals](https://github.com/user-attachments/assets/fd950ecc-1d62-43c9-8410-fd065d19175e)
 
 
 
