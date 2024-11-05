@@ -177,7 +177,7 @@ FROM [dbo].[Customer_Data];
 ### 2. **AVERAGE SUBSCRIPTION DURATION**
 
 #### Pivot Table
-![Average Subscription Duration](https://github.com/user-attachments/assets/a1cd5af6-2e3d-4119-957d-0c184318cc04
+![Average Subscription Duration](https://github.com/user-attachments/assets/a1cd5af6-2e3d-4119-957d-0c184318cc04)
 
 #### Chart
 ![Average Subscription Duration1](https://github.com/user-attachments/assets/ec57aa74-60a8-4c09-9273-b770d1d10288)
@@ -194,7 +194,7 @@ FROM [dbo].[Customer_Data];
 ### 3. **MOST POPULAR SUBSCRIPTION PLAN**
 
 #### Pivot Table
-![Most Popular Subscription Type](https://github.com/user-attachments/assets/d62c6b27-c6cd-4fcc-a9e0-1f8a671910c1
+![Most Popular Subscription Type](https://github.com/user-attachments/assets/d62c6b27-c6cd-4fcc-a9e0-1f8a671910c1)
 
 #### Chart
 ![Most Popular Subscription Plan](https://github.com/user-attachments/assets/8b1deba8-7912-4d53-8fc1-858e770fb2ad)
